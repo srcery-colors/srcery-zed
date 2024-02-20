@@ -1,7 +1,7 @@
 {
-  "name": "Zed Srcery theme",
+  "name": "Srcery theme",
   "version": "0.0.1",
   "authors": ["Ivan Zuzak <izuzak@gmail.com>"],
   "description": "Srcery color scheme for Zed",
-  "repository": "https://github.com/izuzak/srcery-zed"
+  "repository": "https://github.com/srcery-colors/srcery-zed"
 }
