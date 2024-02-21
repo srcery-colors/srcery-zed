@@ -25,7 +25,10 @@ slightly earthy tone.  This is a schema for the <a href="https://zed.dev/">Zed</
 
 ## Getting Started
 
-To be added...
+1. In Zed, open the Extensions menu
+2. Install "Srcery theme" from the list of extensions
+3. Open the Theme selector menu
+4. Select "Srcery" from the list of themes
 
 
 ## Screenshot
