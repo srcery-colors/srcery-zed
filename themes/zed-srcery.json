@@ -15,15 +15,15 @@
         "elevated_surface.background": "#1c1b19",
         "surface.background": "#121212",
         "background": "#1c1b19",
-        "element.background": "#2c78bf",
-        "element.hover": "#1c1b19",
+        "element.background": "#2d2d2d",
+        "element.hover": "#4e453f",
         "element.active": null,
         "element.selected": "#4e453f",
         "element.disabled": null,
         "drop_target.background": "#1c1b19",
         "ghost_element.background": null,
-        "ghost_element.hover": "#1c1b19",
-        "ghost_element.active": null,
+        "ghost_element.hover": "#4e453f",
+        "ghost_element.active": "#fbb829",
         "ghost_element.selected": "#4e453f",
         "ghost_element.disabled": null,
         "text": "#fce8c3",
@@ -59,7 +59,7 @@
         "editor.highlighted_line.background": null,
         "editor.line_number": "#918175",
         "editor.active_line_number": "#fce8c3",
-        "editor.invisible": null,
+        "editor.invisible": "#918175",
         "editor.wrap_guide": "#918175",
         "editor.active_wrap_guide": "#918175",
         "editor.document_highlight.read_background": null,
@@ -135,7 +135,11 @@
         "warning": null,
         "warning.background": null,
         "warning.border": null,
-        "players": [],
+        "players": [
+          {
+            "selection": "#4e453f"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#519f50",
@@ -219,7 +223,7 @@
           },
           "type": {
             "color": "#2c78bf",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "variable": {
