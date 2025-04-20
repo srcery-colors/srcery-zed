@@ -3,5 +3,5 @@ version = "0.0.3"
 authors = ["Ivan Zuzak <izuzak@gmail.com>"]
 description = "Dark theme based on the Srcery color scheme"
 repository = "https://github.com/srcery-colors/srcery-zed"
-id = "srcery-theme"
+id = "srcery"
 schema_version = 1
