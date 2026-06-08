@@ -20,7 +20,7 @@
         "element.active": null,
         "element.selected": "#4e453f",
         "element.disabled": null,
-        "drop_target.background": "#1c1b19",
+        "drop_target.background": "#fce8c333",
         "ghost_element.background": null,
         "ghost_element.hover": "#4e453f",
         "ghost_element.active": "#fbb829",
